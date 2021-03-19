@@ -41,7 +41,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app: I am unsure as to why my app keeps stopping before refreshing TimelineActivity. However, it works perfectly fine after it restarts with the tweet inserted in the right position.
 
 ## Open-source libraries used
 
